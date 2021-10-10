@@ -17,4 +17,4 @@ The notebook includes all the markdowns which explain the process.
 - Submit a pull request :D
 
 ## Authors
-This repo is maintained by (Your name)(mailto: (your mail_id))
+This repo is maintained by @GOD-OF-FIRE  (mailto:kushagra357@gmail.com)
