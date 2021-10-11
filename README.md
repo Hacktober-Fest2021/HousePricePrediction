@@ -9,6 +9,9 @@ The objective of the project is to perform data visulalization techniques to und
 ## Usage
 The notebook includes all the markdowns which explain the process.
 
+## Dataset
+The [dataset](https://www.kaggle.com/aariyan101/usa-housingcsv) is taken from kaggle. The file contains housing data from USA.
+
 ## Contributing
 - Fork it!
 - Create your feature branch: git checkout -b my-new-feature
